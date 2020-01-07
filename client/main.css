@@ -1,0 +1,30 @@
+  .row{
+    
+    font-size : 50px;
+    text-align: center;
+    text-emphasis-color: #0e1358;
+}
+
+.holiday_Details{
+    
+  text-decoration-color: #0e5812;
+  font-weight: 300;
+ text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.isHoliday {background-color: #4CAF50;} /* Blue */
+.hol_details {background-color: #f44336;} /* Red */ 

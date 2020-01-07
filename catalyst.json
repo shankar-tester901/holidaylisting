@@ -1,0 +1,12 @@
+{
+  "client": {
+    "source": "client"
+  },
+  "applogic": {
+    "targets": [
+      "holiday_listing"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  }
+}
